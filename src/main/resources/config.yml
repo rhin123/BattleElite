@@ -1,0 +1,86 @@
+CircleStop: 2
+BarrierTime: 25
+MapSize: 64
+MaxPlayers: 32
+MaxPlayersReady: 3
+LobbyCooldown: 31
+TntFuseDelay: 20
+XP:
+   win: 15
+   loose: 5
+   kill: 2
+playworld0:
+   name: 'sadf00'
+   author: 'asdf00'
+   
+   Center:
+     x: 30
+     y: 33
+     z: 2
+   Blue:
+     x: 13
+     y: 32
+     z: 6
+   Red:
+     x: 12
+     y: 32
+     z: -11
+   Green:
+     x: 46
+     y: 32
+     z: -9
+   Yellow:
+     x: 47
+     y: 32
+     z: 7
+
+playworld1:
+   name: 'sadf11'
+   author: 'asdf11'
+   
+   Center:
+     x: 30
+     y: 33
+     z: -2
+   Blue:
+     x: 13
+     y: 32
+     z: 6
+   Red:
+     x: 12
+     y: 32
+     z: -11
+   Green:
+     x: 46
+     y: 32
+     z: -9
+   Yellow:
+     x: 47
+     y: 32
+     z: 7
+
+Sheep:
+   blue:
+    x: 15
+    y: 0
+    z: 0
+    yaw: 0
+   red:
+    x: -15
+    y: 0
+    z: 0
+    yaw: 0
+   green:
+    x: 0
+    y: 0
+    z: 15
+    yaw: 0
+   yellow:
+    x: 0
+    y: 0
+    z: -15
+    yaw: 0
+Hub:
+  x: 5061
+  y: 104
+  z: 4906
