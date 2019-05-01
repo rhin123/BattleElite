@@ -1,5 +1,5 @@
 # BattleElite
-Old Nations at War Minecraft plugin from 2013.
+Old Nations at War Minecraft plugin from 2013.  
 If anyone is actually going to read the source code, ignore the static methods & variables. I was young and didn't understnad how OOP worked yet.
 
 Surviving Video:
